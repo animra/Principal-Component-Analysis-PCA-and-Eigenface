@@ -1,6 +1,8 @@
 # Principal Component Analysis (PCA) and Eigenface
 Used PCA to analyze face images by using Python Language
+
 Used faces.dat each row represents an image (400 images), and each column represents a pixel (64 × 64 = 4096 pixels)
+
 Displayed the 200th image.
 Removed the mean of the images, and then display the 200th image.
 Performed PCA on the mean-centered data matrix. You can either implement PCA by yourself using eigenvalue decomposition over the sample covariance matrix, or use a existing machine learning toolbox. Sort the eigenvalues in a descending order and plot them.
