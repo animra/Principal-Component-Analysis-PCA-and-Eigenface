@@ -1,5 +1,5 @@
 # Principal Component Analysis (PCA) and Eigenface
-Used PCA to analyze face images by using Python Language
+* Used PCA to analyze face images by using Python Language
 
 Used faces.dat each row represents an image (400 images), and each column represents a pixel (64 × 64 = 4096 pixels)
 
