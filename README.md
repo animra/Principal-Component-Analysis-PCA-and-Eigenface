@@ -1,1 +1,1 @@
-# Principal-Component-Analysis-PCA-and-Eigenface
+# Principal Component Analysis (PCA) and Eigenface
