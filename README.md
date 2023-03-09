@@ -7,3 +7,4 @@
 * Found the last (i.e., 400th) eigenvalue is 0 and explained why?
 * Based on the eigenvalues, determined the dimensionality of the data we wanted to keep (i.e., how many principal components you want to keep), which accounts for most of the variance. Explain your reason.
 * Displayed the top-5 leading eigenvectors (corresponding to the top-5 largest eigenvalues) in 5 figures.
+* Displayed respectively the reconstructed 100th images using 10, 100, 200, and 399 principal components.
